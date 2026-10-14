@@ -1,0 +1,6 @@
+Coloque nesta pasta:
+- A foto do casal com o nome nossa-foto.jpg (a foto enviada já está aqui)
+
+Preencha CONFIG.photo e CONFIG.music no começo de script.js com os caminhos dos arquivos que quiser usar.
+O arquivo de música atual, videoplayback.mp4, fica na pasta principal do site.
+O player toca somente o áudio, não mostra a imagem e não inicia sozinho.
